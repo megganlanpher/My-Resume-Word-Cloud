@@ -1,0 +1,44 @@
+﻿Meggan Lanpher
+Austin, TX  |  972-832-7529  |  meggan.lanpher@gmail.com  |  LinkedIn:/in/meggan-lanpher/
+GitHub: /megganlanpher 
+
+
+A solutions-driven data scientist with an interest in solving complex problems. I have a liberal arts background to balance my quantitative skills and critically think through the intricacies of complex problems in an interconnected world. My passion for statistics and computer science fuels my hunger to expand my knowledge of pythonic engineering, statistical data analysis, and multicultural awareness. I am driven to continuously grow and use an inquisitive mind in order to build an effective product for an innovative and socially positive organization.
+
+
+TECHNICAL SKILLS
+Python, Scala, Spark, SQL, Pandas, Sci-Kit Learn, NLTK, Beautiful Soup, Tableau, Matplotlib, Seaborn
+
+
+EXPERIENCE
+Data Science Fellow
+General Assembly | Dec 2019 - Mar 2020
+* Developed functions, classes, and pipelines for data collection, data aggregation, data analysis, data modeling, and data visualization in Python, SQL, and Scala
+* Collaborated with classmates and instructors to build machine learning models for small and big data
+* Designed pythonic workflows for statistical modeling within Pandas and Sci-kit Learn
+* Differentiated the markets of similar forums by analyzing NLP predictions from Reddit API data
+
+
+Office Administrator & Project Coordinator
+Macmillan Learning | Mar 2018 - Nov 2019
+* Increased employee engagement of the Austin office by gathering and analyzing office data, designing a program of events and perks, and improving the organizational effectiveness of the office
+* Reduced parking costs by 10% after analyzing the trends and usage of parking assignments and access badges in the office using Google Sheets and Microsoft Excel
+* Reduced break room costs over 15% and machine maintenance response time over 95% by analyzing consumption trends and coordinating a new vendor to supply and stock the break rooms
+* Facilitated internal communication, collaboratively designed the programming, and recruited 10% and oriented 60% of the interns in the Summer Internship Program 
+
+
+COMMUNITY INVOLVEMENT
+Membership Committee Member
+Young Women’s Alliance | Aug 2018 - Present
+* Collaboratively organize recruitment and retention activities in order to support professional women
+* Volunteer with the Girls Empowerment Network in order to empower girls to believe in their potential
+
+
+Active Member
+Women Who Code, Pyladies, Women in Data Science, Data on Tap
+
+
+EDUCATION
+The University of Texas at Austin
+BA, International Relations and Global Studies | 2017
+International Political Economy Track -- Minors: Business, Economics, French, and European Studies
